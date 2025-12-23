@@ -108,5 +108,12 @@ Me caracterizo por ser una persona responsable, orientada a resultados y con cap
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
+<p align="center">
+
+<a href="https://www.linkedin.com/in/miguel-reyes-sanchez-76337b290"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.tiktok.com/@mr_soft30?_r=1&_t=ZS-92RyGGVqxS3"><img src="https://img.shields.io/badge/-Tiktok-000?style=flat&logo=Tiktok&logoColor=white"/></a>
+<a href="https://www.youtube.com/@MR-Soft.30"><img src="https://img.shields.io/badge/-Youtube-ff0033?style=flat&logo=Youtube&logoColor=white"/></a>
+
+</p>
 
 
