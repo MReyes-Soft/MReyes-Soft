@@ -10,7 +10,9 @@
 
 <p align="justify">As a seasoned <b>full stack web developer</b> hailing from India, I possess an unwavering passion for creating bespoke digital solutions from scratch, fueled by my insatiable appetite for coding. My current focus is on perfecting the art of <b>React.js</b>, a framework that has captured my heart and ignited my creativity. With over <b>3+ years of programming experience</b> under my belt, I bring a wealth of technical expertise to every project I undertake. Moreover, my innate ability to seamlessly blend design aesthetics with cutting-edge technology, allows me to deliver intricate applications as well as simplistic yet elegant websites. So if you're looking for <b>a proficient developer who takes pride in delivering quality results</b>, look no further.</p>
 
-<h1 align="left">🧠 Skills</h1>
+<!--<h1 align="left">🧠 Skills</h1>-->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
 
 ### ☕️Lenguajes de programación
 
