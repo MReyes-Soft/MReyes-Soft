@@ -9,18 +9,16 @@
 
 <h1 align="left">🚀 About Me</h1>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<br>
 
-<br><br>
-
-<p align="justify">Soy Miguel Reyes Sanchez, Titulado en Ingeniería de Software con Inteligencia Artificial, Tengo 1 año de experiencia laboral en desarrollodor full stack. elaborando diseño, desarrollo web, aplicación móvil y mantenimiento de APIs. 
+<p align="justify">Soy Miguel Reyes Sanchez, Titulado en Ingeniería de Software con Inteligencia Artificial, tengo 1 año de experiencia laboral en desarrollodor full stack. elaborando diseño, desarrollo web, aplicación móvil y mantenimiento de APIs. 
 Cuento con experiencia práctica en desarrollo backend y web, así como en la creación de APIs REST, sistemas orientados a negocio y aplicaciones cliente-servidor.
 
 He trabajado con tecnologías como Node.js, PHP, MySQL y Git, desarrollando soluciones que integran bases de datos relacionales, manejo de errores y buenas prácticas de programación. También tengo experiencia en la integración de APIs con aplicaciones móviles desarrolladas en Xamarin.Forms (C#).
 
 Me caracterizo por ser una persona responsable, orientada a resultados y con capacidad para trabajar bajo presión. Tengo una discapacidad auditiva parcial, la cual no limita mi desempeño profesional, ya que me adapto eficientemente a la comunicación escrita y al uso de herramientas colaborativas.
 </p>
-
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
