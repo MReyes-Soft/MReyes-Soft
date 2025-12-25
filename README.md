@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenid@ al GitHub de MR-Dev-Soft <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Bienvenid@ al GitHub de MR-Soft <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <img src="https://github.com/MR-Dev-Soft/MR-Dev-Soft/blob/main/MR-soft.jpg" width="100%" alt="Banner">
 </p>
@@ -100,8 +100,8 @@ Me caracterizo por ser una persona responsable, orientada a resultados y con cap
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MR-Dev-Soft&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MR-Dev-Soft&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MReyes-Soft&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MReyes-Soft&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
